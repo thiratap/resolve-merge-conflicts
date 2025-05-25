@@ -1,4 +1,4 @@
-<header>
+Tap on a clip to paste it in the text box.Use the edit icon to pin, add or delete clips.Welcome to Gboard clipboard, any text you copy will be saved here.<header>
 
 <!--
   <<< Author notes: Course header >>>
